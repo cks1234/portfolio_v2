@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function HomeCard() {
   return (
@@ -26,18 +27,18 @@ export default function HomeCard() {
           
           {/* Call to Action */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mt-8">
-            <a 
-              href="/projects" 
+            <Link 
+              to="/projects" 
               className="button text-white text-xl font-bold"
             >
               View Projects
-            </a>
-            <a 
-              href="/contact" 
+            </Link>
+            <Link 
+              to="/contact" 
               className="button text-white text-xl font-bold"
             >
               Contact Me
-            </a>
+            </Link>
           </div>
         </div>
       </div>
