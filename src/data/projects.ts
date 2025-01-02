@@ -4,8 +4,8 @@ export const projects = [
     description: "My Portfolio Website",
     image: "/home_pic.jpg",
     techStack: ["React", "Tailwind", "TypeScript", "CSS"],
-    liveLink: "https://c1one-app1e.netlify.app",
-    githubLink: "https://github.com/cks1234/appleclone"
+    liveLink: "https://samchoi.netlify.app",
+    githubLink: "https://github.com/cks1234/portfolio_v2"
   },
   {
     title: "Apple Clone Site",
