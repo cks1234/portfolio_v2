@@ -1,14 +1,14 @@
 export const skills = [
   {
-    category: 'Frontend',
-    items: ['JavaScript', 'TypeScript', 'ReactJS', 'HTML', 'Tailwind CSS', 'PHP'],
+    category: 'Languages',
+    items: ['JavaScript', 'C#', 'Python', 'HTML', 'CSS', 'PHP'],
   },
   {
-    category: 'Backend',
-    items: ['Express', 'PostgreSQL', 'MongoDB', 'AWS EC2'],
+    category: 'Libraries & Frameworks',
+    items: ['.NET', 'React', 'Express', 'MySQL', 'Pandas', 'Matplotlib', 'Numpy'],
   },
   {
     category: 'Tools',
-    items: ['Git', 'Docker', 'Visual Studio Code'],
+    items: ['Git', 'Azure', 'AWS', 'Docker', 'Visual Studio Code'],
   }
 ];

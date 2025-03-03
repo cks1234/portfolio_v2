@@ -15,6 +15,16 @@ export const projects = [
     liveLink: "https://c1one-app1e.netlify.app",
     githubLink: "https://github.com/cks1234/appleclone"
   },
+
+  {
+    title: "Board",
+    description: "Simple Board Project.(The initial load may take up to a minute.)",
+    image: "https://www.lakemac.com.au/files/content/public/v/12/for-residents/community/community-noticeboard/noticeboard.jpg?w=1200",
+    techStack: ["C#", ".NET", "MSSQL", "Azure", "Git", "CI/CD"],
+    liveLink: "https://myboardapp-afh9hvd5dmdffebs.australiaeast-01.azurewebsites.net/",
+    githubLink: "https://github.com/cks1234/BoardProject"
+  },
+
   {
     title: "Sample App Deployment",
     description: "A Sample Angular App Deployment using Docker on AWS EC2 instance",
@@ -30,13 +40,7 @@ export const projects = [
     techStack: ["C#", "ASP.NET", "MVC"],
     githubLink: "https://github.com/cks1234/ASP.NET-CRUD"
   },
-  {
-    title: "E-Shop",
-    description: "A FakeShop project using MERN stacks",
-    image: "https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    techStack: ["React", "Node.js", "MongoDB", "Express"],
-    githubLink: "https://github.com/cks1234/FakeShop"
-  },
+
   {
     title: "Movie Searching Application",
     description: "A Movie Searching App using React",
